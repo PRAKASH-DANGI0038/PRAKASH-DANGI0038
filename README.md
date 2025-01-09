@@ -4,9 +4,6 @@
 💡 Always open to collaborating on projects and innovative/disruptive ideas.
 
 
-## About Me
-
-
 
 ## Skills & Technologies
 
