@@ -1,30 +1,58 @@
-# 💫 Hey! I'm Prakash Dangi
-**Software Developer** <br><br>🧑🏻‍💻 Computer Enthusiastic & a geek!<br><br>💡 Always open to collaborating on projects and innovative/disruptive ideas.<br><br>
+## Hi there! 👋
+
+💫Hey **PRAKASH DANGI**, 
+
+🧑🏻‍💻 Computer Enthusiastic & a geek!  
+💡 Always open to collaborating on projects and innovative/disruptive ideas.
+
+
+## About Me
 
 
 
-# 💻 Framworks:
- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
- 
+## Skills & Technologies
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HARSHVARDHAN-BARETH&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=HARSHVARDHAN-BARETH&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHVARDHAN-BARETH&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+cpp,react
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=HARSHVARDHAN-BARETH&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## Top Projects
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- [Shoe-Mart](https://github.com/PRAKASH-DANGI0038/Shoe-Mart)
+  - **Description**: A super amazing shoe app built with React Native.
+  - **Stars**: 0
+  - **Language**: JavaScript
+  - **Forks**: 0
+  
+- [IetProject](https://github.com/PRAKASH-DANGI0038/IetProject)
+  - **Description**: A project for IET showcasing various functionalities.
+  - **Stars**: 0
+  - **Language**: TypeScript
+  - **Forks**: 0
+  
+- [prakast_first](https://github.com/PRAKASH-DANGI0038/prakast_first)
+  - **Description**: My first project on GitHub, a simple HTML page.
+  - **Stars**: 0
+  - **Language**: HTML
+  - **Forks**: 0
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=HARSHVARDHAN-BARETH&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## GitHub Stats
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+🌟 **Public Repositories**: 6  
+👥 **Followers**: 0  
+🔄 **Following**: 2  
 
----
-[![](https://visitcount.itsvg.in/api?id=HARSHVARDHAN-BARETH&icon=0&color=0)](https://visitcount.itsvg.in)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PRAKASH-DANGI0038&show_icons=true&theme=radical)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Recent Activity
+
+- Created the repository [IetProject](https://github.com/PRAKASH-DANGI0038/IetProject) on 2025-01-08.
+- Created the repository [Shoe-Mart](https://github.com/PRAKASH-DANGI0038/Shoe-Mart) on 2025-01-08.
+- Updated the README.md of [redme](https://github.com/PRAKASH-DANGI0038/redme) on 2024-12-10.
+- Pushed changes to [prakast_first](https://github.com/PRAKASH-DANGI0038/prakast_first) on 2025-01-03.
+
+## Latest Blog Posts
+
+Currently, I do not have any blog posts. Stay tuned for updates!
+
+## Connect with Me
+
+{}
